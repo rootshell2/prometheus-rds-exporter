@@ -8,7 +8,7 @@ entries:
           url: https://github.com/qonto/prometheus-rds-exporter/tree/main/configs/helm
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2024-11-17T18:12:01.426625+01:00"
+    created: "2024-11-17T18:28:17.358116+01:00"
     description: Prometheus RDS exporter
     digest: dfa9987928755491477c91207ac12396f8bcf6a874d8c2f502c576a8f86f6c64
     home: https://github.com/qonto/prometheus-rds-exporter
@@ -25,4 +25,4 @@ entries:
     urls:
     - https://rootshell2.github.io/prometheus-rds-exporter/prometheus-rds-exporter-chart-0.3.0.tgz
     version: 0.3.0
-generated: "2024-11-17T18:12:01.425337+01:00"
+generated: "2024-11-17T18:28:17.357643+01:00"
